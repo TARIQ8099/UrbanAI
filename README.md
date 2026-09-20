@@ -9,6 +9,7 @@
 ## 🌆 Overview
 
 UrbanAI is a comprehensive urban planning and visualization platform that leverages artificial intelligence to provide data-driven insights for smart city management. The platform offers real-time analytics, predictive modeling, and interactive visualizations to help urban planners, city administrators, and stakeholders make informed decisions.
+Certificate of Honor 2025 China International Innovation Competition  UrbanAI AI Driven Urban Planning Platform for Smart Cities AI urban planning.JPG
 
 ## ✨ Key Features
 
